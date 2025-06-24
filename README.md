@@ -14,8 +14,8 @@ Patients have complained about the challenges in trying to reach out to their pr
 
 ## Target Users
 
-The software targets both the providers and the patients. This will be a portal of communication for providers to reach out to their patients, and for patients to ask any questions. Patients can view their appointment notes, test results, and medication lists. 
+The software targets both the providers and the patients. This will be a portal of communication for providers to reach out to their patients, and for patients to ask any questions. Patients can view their appointment notes, test results, medication lists, and billing. 
 
 ## High-Level Goals
 
-The main goal is to improve the patient experience with better communication. 
+The main goal is to overall improve the patient experience with better communication and easier access to test results and billing. 
